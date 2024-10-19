@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.kzvyagin.MultiPage
+Exec=/usr/bin/ru.kzvyagin.MultiPage
+Name=MultiPage
+Name[ru]=МультиСтраничка
+
+[X-Application]
+Permissions=
+OrganizationName=ru.kzvyagin
+ApplicationName=MultiPage
+ExecDBus=/usr/bin/ru.kzvyagin.MultiPage
